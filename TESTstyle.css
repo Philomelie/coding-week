@@ -260,3 +260,6 @@ transition: height 0.00001ms ease;
 width: 162px;
 height: 0;
 }
+.navbar {
+  padding: 0;
+}
