@@ -86,7 +86,7 @@ p {
   margin-right: 10px;
   position: fixed;
   right: 30px;
-  z-index: 1;
+  z-index: 3;
 }
 
 .BUY img { 
@@ -133,6 +133,7 @@ transform: scale(1.1)
 .mapouter {
   margin-left: 30px;
   margin-bottom: 50px;
+  z-index: 4;
 }
 
 a:hover {
