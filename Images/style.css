@@ -102,10 +102,10 @@ transform: scale(1.1)
   display: flex;
   flex-direction: column;
 }
-#somersby {
+/* #somersby {
   /* left: 200px;
-  top: 200px; */
-}
+  top: 200px;
+} */
 .othersponsors {
   display: flex;
   /*! justify-content: space-around; */
