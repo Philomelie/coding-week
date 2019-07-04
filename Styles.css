@@ -50,6 +50,7 @@ p {
 
   .socialmedia {
       margin: 60px 0px 40px 43px;
+      display: flex;
     }
     .socialmedia > * { margin: 0px 30px 0px 0px
     }
@@ -262,4 +263,7 @@ height: 0;
 }
 .navbar {
   padding: 0;
+}
+.directions {
+  margin-top: 20px;
 }
